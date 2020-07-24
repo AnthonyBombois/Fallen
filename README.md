@@ -1,1 +1,1 @@
-# Fallen
+Bonjour à tous ce petit message a pour but uniquement informatif. Tous les fichiers qui seront sur le git devront respecté une semantique et une concatenation parfaite pour que la lecture fluide et agreable pour l'ensemble des developpeurs.
